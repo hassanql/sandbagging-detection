@@ -1,10 +1,9 @@
 # Scratchpad Transparency in Sandbagging
 ### Does Chain-of-Thought Reasoning Aid or Impede Behavioural Monitoring?
 
-[![arXiv](https://img.shields.io/badge/arXiv-[PAPER_ID]-b31b1b.svg)](https://arxiv.org/abs/[PAPER_ID])
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[YOUR-GITHUB]/sandbagging-detection/blob/main/sandbagging_cot.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hassanql/sandbagging-detection/blob/main/sandbagging_cot.ipynb)
 
 ---
 
